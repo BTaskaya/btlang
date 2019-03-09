@@ -1,3 +1,4 @@
+[Blog YAZISI](https://btaskaya.github.io/cpython-vm-dili.html)
 ```
 > find -name "*.btlang" -exec cat {} \; -exec python -m btlang {} \; -exec echo -e "\n" \;
 `print`i çağır
